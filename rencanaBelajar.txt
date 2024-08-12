@@ -2,6 +2,7 @@ Rencana baru 01:
 - rencana 1 (detail rencana no 1)
 - rencana 2 (detail rencana no 2)
 - rencana 3
+- ada rencana 4
 
 Berisi materi:
-- materi no 1
+materi nomor 1 perlu diawali introduction
