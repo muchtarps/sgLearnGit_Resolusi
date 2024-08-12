@@ -5,6 +5,7 @@ Rencana baru 01:
 - menambah rencana no 4
 
 Berisi materi:
+materi nomor 1 perlu diawali introduction
 - materi no 1
 belajar mengenai poin 1
 mendalami poin 1. poin 1.a
