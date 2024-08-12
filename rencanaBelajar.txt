@@ -1,4 +1,4 @@
 Rencana baru 01:
-- rencana 1
-- rencana 2
+- rencana 1 (detail rencana no 1)
+- rencana 2 (detail rencana no 2)
 - rencana 3
